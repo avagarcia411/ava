@@ -1,0 +1,46 @@
+1.
+ -- 5 topics that sound interesting: --
+1 - Nebulas
+2 - Black holes
+3 - Exoplanets
+4 - Galaxies
+5 - Big Bang
+
+
+2.
+Topic 1: Neubulas
+- Source: spaceplace.nasa.gov (article name: What Is a Nebula?)
+- A nebula is a giant cloud of dust and gas in space. 
+  Some nebulae are from the gas and dust from the explosion of a dying star (like a supernova).
+  Others are regions where new stars are formed, and those can be calles "star nurseries."
+  Stars form in the nebulae by gravity slowly pulling together clumps of the dust and gas. 
+  Those clumps eventually get so big that they collapse from its own gravity, so that forms the beginning of a star!
+  Nubulae exist in interstellar space, and the closest one to us is about 700 lys away, the Helix Nebula.
+- This source gives all the basic information on nebula to get a basic understanding on the topic.
+
+  Topic 2: Black Holes
+- Source: science.nasa.gov (article name: Black Hole Basics)
+- Black holes are very large concentrations of matter that is packed into a very tiny space.
+  The black hole is so dense that the gravity below the event horizon is so strong that nothing can escape, including light.
+  The event horizon is not a surface, it is actually a boundary where all the matter in the black hole is contained
+  Black holes are highly studied, but scientists still do not know much about them. 
+- This article goes a little bit more in depth compared to the articfle above, it includes basic information on black holes, as well as a video, images, and a infograph that has "Essential Black Hole Facts."
+
+Topic 3: Exoplanets
+- Source: science.nasa.gov (article name: Exoplanets)
+- An exoplanet is any planet that is not in the solar system. 
+  Most orbit stars, but some are untethered to any star.
+  There are 6028 confirmed exoplanets.
+  Most of those discoveries are from the Milky Way galaxy.
+  Scientists have found the compositions of many exoplanets by measuring their sizes and masses.
+- This article is very helpful for researching exoplanets and related topics. There are images, videos, and links to many other articles related to the topic.
+
+
+3. 
+- I could use Python skills to comb through data regarding exoplanets. I could possibly sort the different exoplanets by size, composition, or distance from earth. I could use loops to, for example, find the closest exoplanet to us who has the composition to possibly have water on its surface.
+
+
+4. 
+- My dream project idea for this topic would be to try and figure out what the compotition of an exoplanet is just based off of some facts I know about it.
+- My more simple option could be to create a graph that shows the relationship between different facts about exoplanets, like composition and distance from nearest star.
+
